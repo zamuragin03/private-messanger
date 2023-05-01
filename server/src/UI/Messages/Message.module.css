@@ -1,0 +1,38 @@
+.fromcontainer{
+    background-color: antiquewhite;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    display: inline-block;
+    
+    border-radius: 15px 15px 15px 0px;
+    align-self: flex-end;
+    float: right;
+}
+.tocontainer{
+    background-color: antiquewhite;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 15px 15px 0px 15px; 
+    align-self:flex-start;
+    float: left;
+
+}
+.text{
+    max-width: 100px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 500;
+    user-select: none;
+
+}
+.time{
+    margin: 0;
+    text-align: right;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 100;
+    user-select: none;
+}

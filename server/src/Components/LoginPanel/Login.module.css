@@ -1,0 +1,40 @@
+.login-form{
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+}
+.LoginInput{
+margin: 0 auto;
+
+font-size: 40px;
+user-select: none;
+}
+.RegisterInput{
+    margin: 0 auto;
+    font-size: 40px;
+    margin-top: 50px;
+    user-select: none;
+    
+}
+.Title{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    user-select: none;
+
+}
+.RegisterInput::placeholder{
+    color: rgb(255, 229, 172);
+    user-select: none;
+
+}
+.LoginInput::placeholder{
+    color: rgb(255, 229, 172);
+    user-select: none;
+}
+.error{
+    text-align: center;
+    color: brown;
+}

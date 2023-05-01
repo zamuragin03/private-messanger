@@ -1,0 +1,15 @@
+.user{
+    background-color:rgb(255, 240, 197);
+    width: 500px;
+    height: 50px;
+    display: block;
+    /* padding: 5px; */
+    margin: 0;
+    text-align: center;
+    float: left;
+}
+.username{
+    height: auto;
+    margin: 0 0;
+    line-height: 50px;
+}

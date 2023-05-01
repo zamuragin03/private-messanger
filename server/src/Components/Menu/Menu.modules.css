@@ -1,0 +1,14 @@
+.container{
+    /* float: left; */
+    display: flex;
+}
+.Dialog{
+    float: left;
+    /* margin-top: 100px; */
+}
+.Chats{
+    position: absolute;
+    width: 400px;
+
+    float: right;
+}

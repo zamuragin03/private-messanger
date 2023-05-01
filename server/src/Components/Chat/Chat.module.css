@@ -1,0 +1,11 @@
+.message_container{
+    width: 800px;
+    display: block;
+    padding: 25px;
+    height: 500px;
+    margin: 0 500px;
+    border: 2px solid white;
+}
+.message_container div{
+    margin-bottom: 25px;
+}

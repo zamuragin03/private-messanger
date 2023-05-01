@@ -1,0 +1,12 @@
+.Input{
+    min-width: 200px;
+    min-height: 50px;
+    background-color: rgb(192, 142, 92);
+    border:  none;
+    border-bottom: 2px solid white;
+    color: white;
+    font-size: 25px;
+    outline: none;
+    display: flex;
+    
+}
